@@ -1,0 +1,9 @@
+{
+  "author":      "Chris Jacobs",
+  "description": "Movie Trailers",
+  "icon":        "icon.jpg",
+  "name":        "Trailers",
+  "url":         "trailers/",
+  "repo_url":    "slashnet/trailers"
+}
+
